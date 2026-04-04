@@ -46,7 +46,7 @@ Em desenvolvimento...
 - Banco de dados: Supabase (nuvem)
 - Backend: Node.js + Express.js | Deploy: Railway (em breve)
 - Frontend: HTML5 + CSS3 + JavaScript | Deploy: Netlify (em breve)
-- Código versionado: GitHub (privado)
+- Código versionado: GitHub (público)
 
 ---
 
