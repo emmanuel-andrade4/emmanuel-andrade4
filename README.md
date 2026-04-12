@@ -52,7 +52,7 @@ Em desenvolvimento...
 
 ## 📚 Cursos realizados
 
-- Git e GitHub [20 horas ] (Curso em Vídeo)
+- Git e GitHub [20 horas] (Curso em Vídeo)
 
 ---
 
