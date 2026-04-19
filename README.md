@@ -1,39 +1,41 @@
-# 👩🏻‍💻 Emmanuel Andrade
+## 👨🏽‍💻 Emmanuel Andrade
 Desenvolvedor Backend
 
 🚀 Me chamo Emmanuel Alves Andrade, tenho 19 anos e sou natural de Conceição do Rio Verde. Atualmente, moro em Varginha e estou cursando Engenharia de Software.
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## 📚 Tecnologias em Estudo
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma&logoColor=White)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=Jungle%20Green)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,nodejs,postgresql,expressjs,javascript" />
+</p>
+
+## 🛠️ Ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,vscode,figma,github" />
+</p>
 
 ---
 
 ## 📌 Projetos em destaque
 
-👨‍👩‍👧‍👦 **`Site para a loja local de Varginha - SHOP BEAUTY (Projeto proposto pela faculdade) - EM DESENVOLVIMENTO`**
+💄 **`Site para a loja local de Varginha - SHOP BEAUTY (Projeto proposto pela faculdade) - EM DESENVOLVIMENTO`**
 
-**Banco de Dados (PostgreSQL)**
+**Banco de Dados (Supabase)**
 
-2 tabelas criadas:
-- produtos — produtos reais da loja.
-- pedidos — contém informações dos pedidos.
+3 tabelas criadas:
+- produtos — produtos reais da loja, que serão exibidos no site.
+- pedidos — contém informações dos pedidos, que serão gerados dentro do site.
+- clientes — contém informações dos usuário, que irão se cadastrar no site.
 
 858 produtos cadastrados com informações reais, que são vendidos na loja Shop Beauty, incluindo perfumes, maquiagens e produtos para hidratação dos cabelos.
 
 1 storage:
 - imagens-produtos — contém subpastas para a separação das imagens, que serão exibidas no site.
 
-**Backend (Node.js + Express.js)**
+**Backend (Node.js + Express.js + Supabase)**
 
 Em desenvolvimento...
 
@@ -53,6 +55,8 @@ Em desenvolvimento...
 ## 📚 Cursos realizados
 
 - Git e GitHub [20 horas] (Curso em Vídeo)
+- JavaScript [40 horas] (Curso em Vídeo) -> EM ANDAMENTO
+- Java [40 horas] (Curso em Vídeo) -> EM ANDAMENTO
 
 ---
 
