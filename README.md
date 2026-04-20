@@ -55,7 +55,6 @@ Em desenvolvimento...
 ## 📚 Cursos realizados
 
 - Git e GitHub [20 horas] (Curso em Vídeo)
-- JavaScript [40 horas] (Curso em Vídeo) -> EM ANDAMENTO
 - Java [40 horas] (Curso em Vídeo) -> EM ANDAMENTO
 
 ---
