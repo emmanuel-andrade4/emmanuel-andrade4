@@ -8,7 +8,7 @@ Desenvolvedor Backend
 ## 📚 Tecnologias em Estudo
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,php,javascript,nodejs,postgresql,expressjs" />
+  <img src="https://skillicons.dev/icons?i=java,php,nodejs,postgresql,expressjs" />
 </p>
 
 ## 🛠️ Ferramentas
